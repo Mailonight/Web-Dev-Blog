@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(230, 230, 212);
+}
+h1{
+    color: rgb(36, 14, 138);
+    <link rel="preconnect"href="https://fonts.googleapis.com"><link rel="preconnect"href="https://fonts.gstatic.com"crossorigin><link href="https://fonts.googleapis.com/css2?family=Titan+One&display=swap"rel="stylesheet">font-family: 'Titan One', sans-serif;
+}
+
+
+h5{
+    line-height: 0.1em;
+}
+#heading{
+    background-color: pink;
+}
